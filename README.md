@@ -21,7 +21,7 @@ Pembagian Bidang Kerja Dalam Proyek (Front-End):
 - Dimas Aqshal P. :HomeScreen,HomeProduct,HomeSearch,Profile Screen.
 - Cahya Andy Mareza :Detail ProdukScreen,Edit ProfilScreeen.
 - Chantika Aurellia :CartScreen(tetapi halaman dihapus,dan diganti dengan postingScreen),Direct ke nomer WA penjual,Asset)
-- Muhammad Maulana : Navigation Bar,PostingScreen,UploadProdukScreen.
+- Muhammad Maulana : Navigation Bar,PostingScreen,UploadProdukScreen,Setting Navigation per screen(Home,Posting,Profil).
 
  Untuk baigan Back-End dikerjakan bersama oleh seluruh anggota.
  Aplikasi yang telah dibuuild ada di repositori dalam github ini.
