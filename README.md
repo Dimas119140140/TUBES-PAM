@@ -23,7 +23,7 @@ Pembagian Bidang Kerja Dalam Proyek (Front-End):
 - Chantika Aurellia :CartScreen(tetapi halaman dihapus,dan diganti dengan postingScreen),Direct ke nomer WA penjual,Asset)
 - Muhammad Maulana : Navigation Bar,PostingScreen,UploadProdukScreen,Setting Navigation per screen(Home,Posting,Profil).
 
- Untuk baigan Back-End dikerjakan bersama oleh seluruh anggota.
- Aplikasi yang telah dibuuild ada di repositori dalam github ini.
+ Untuk bagian Back-End dikerjakan bersama oleh seluruh anggota.
+ Aplikasi yang telah dibuild ada di repositori dalam github ini.
  
  *Note(Kendala) : Pada github,terdapat kendala ketika melakukan push oleh masing-masing anggota,yaitu terjadi penumpukan fie yang tidak tersinkronisasi dengan benar,dan sering terjadi error.Sehingga hanya satu uesr(perwakilan) saja yang melakukan push pada github.
